@@ -1,0 +1,13 @@
+[project]
+name = "payment-processing-api"
+version = "3.2.1"
+
+[tool.poetry]
+name = "payment-processing-api"
+version = "3.2.1"
+
+description = "API for processing payments"
+authors = ["Engineering Team <engineering@example.com>"]
+
+[tool.black]
+line-length = 88
